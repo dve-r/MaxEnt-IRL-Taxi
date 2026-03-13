@@ -4,9 +4,9 @@ This project implements the **Maximum Entropy Inverse Reinforcement Learning (Ma
 
 Unlike standard RL where the reward is known, this project reverse-engineers agent behavior to find a reward function that makes expert demonstrations appear near-optimal. Key focus areas include algorithmic stability via **L2 Regularization** and robustness testing against **suboptimal (noisy) experts**.
 
-<video autoplay loop muted playsinline width="100%">
-  <source src="Demo.webm" type="video/webm">
-</video>
+<p align="center">
+  <img src="Demo.gif" alt="Taxi Agent Demo">
+</p>
 
 ---
 
